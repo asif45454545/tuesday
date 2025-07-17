@@ -185,7 +185,7 @@ let greeting1 = hours < 12 ? "Good Morning" : "Good Evening"
 console.log(greeting1)
 
 // <====== Chapter 32 – Extracting parts of the date and time ======>
-
+//
 let today = new Date()
 
 console.log("Day:", today.getDate())
